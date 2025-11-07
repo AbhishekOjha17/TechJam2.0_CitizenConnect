@@ -2,7 +2,7 @@
 import motor.motor_asyncio
 from pymongo.server_api import ServerApi
 
-MONGO_URI = "mongodb+srv://dhiraj:dhiraj123@pippo.rjbrs.mongodb.net/?retryWrites=true&w=majority"
+MONGO_URI = "mongodb+srv://hidden@pippo.rjbrs.mongodb.net/?retryWrites=true&w=majority"
 DB_NAME = "nsut"
 
 client = None
